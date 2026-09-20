@@ -27,8 +27,8 @@ This project provides a structured solution using **ServiceNow** by allowing emp
 * Provide visibility into issue status and resolution.
 * Follow ServiceNow configuration and development best practices.
 
-## 🏗️ Solution Architecture
 
+## 🏗️ Solution Architecture
 The application follows this flow:
 
 ```text
@@ -138,56 +138,10 @@ The application is designed to enforce:
 * Server-side validation
 * Consistent data capture
 
-## 📂 Repository Structure
-
-```text
-servicenow-employee-issue-management/
-│
-├── README.md
-├── screenshots/
-│   ├── service-portal.png
-│   ├── record-producer.png
-│   ├── issue-form.png
-│   └── issue-record.png
-│
-└── documentation/
-    └── configuration.md
-```
-
-> ServiceNow application configurations such as tables, Record Producers, Client Scripts, Business Rules, and Service Portal components are maintained within the ServiceNow developer instance. This repository contains the project documentation, screenshots, and supporting assets.
-
-## 📸 Screenshots
-
-Screenshots demonstrating the implementation will be added here.
-
-### Service Portal
-
-*Add screenshot here.*
-
-### Employee Issue Record Producer
-
-*Add screenshot here.*
-
-### Validation / Dependency
-
-*Add screenshot here.*
-
-### Created Employee Issue Record
-
-*Add screenshot here.*
-
 ## 🚀 Demo
 
 **ServiceNow Demo:**
-*Add your deployed/demo link here.*
-
-## 🔗 Project Links
-
-**GitHub Repository:**
-*Add repository link here.*
-
-**ServiceNow Demo:**
-*Add demo link here.*
+*[Add your deployed/demo link here](https://drive.google.com/file/d/1KUCvkz39rTa8ajSfNG38yhTT0ZIAn62x/view?usp=drive_link).*
 
 ## 👩‍💻 Project Type
 
@@ -214,13 +168,4 @@ This project was developed as an **Employee Raise Issue – Record Producer & Se
 
 ---
 
-```
-
-### One important GitHub point
-
-Since this is a **ServiceNow configuration project**, don't try to fill the repo with random code just to make it look like a coding project. Your strongest GitHub evidence will be:
-
-**README → screenshots → configuration details → demo link → GitHub repo**
-
-Once your ServiceNow project is complete, you can add screenshots of the **Record Producer, Service Portal, custom table, Client Scripts, Business Rules, and final issue record**. That will make the repository much more convincing for your mentor and recruiters.
 ```
